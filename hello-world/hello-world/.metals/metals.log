@@ -1,0 +1,6 @@
+2022.05.09 17:54:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at e:\functional_programming\hello-world\hello-world\.metals\lsp.trace.json or C:\Users\¿”»£¡§\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.09 17:54:37 INFO  logging to file E:\functional_programming\hello-world\hello-world\.metals\metals.log
+2022.05.09 17:54:37 INFO  Started: Metals version 0.11.5 in workspace 'E:\functional_programming\hello-world\hello-world' for client Visual Studio Code 1.67.0.
+2022.05.09 17:54:39 INFO  time: initialize in 2.29s
+2022.05.09 17:54:39 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.09 17:54:39 WARN  Build server is not auto-connectable.

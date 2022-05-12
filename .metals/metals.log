@@ -1,0 +1,220 @@
+2022.05.12 11:07:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at e:\functional_programming\.metals\lsp.trace.json or C:\Users\임호정\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.12 11:07:37 INFO  logging to file E:\functional_programming\.metals\metals.log
+2022.05.12 11:07:37 INFO  Started: Metals version 0.11.5 in workspace 'E:\functional_programming' for client Visual Studio Code 1.67.1.
+2022.05.12 11:07:41 INFO  time: initialize in 3.94s
+2022.05.12 11:07:41 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.12 11:07:41 WARN  Build server is not auto-connectable.
+2022.05.12 11:07:41 WARN  no build tool detected in workspace 'E:\functional_programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.12 11:07:43 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:07:48 INFO  no build target found for E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.12 11:07:51 INFO  time: code lens generation in 7.91s
+2022.05.12 11:09:16 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:09:20 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:09:24 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:09:56 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:04 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:05 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:06 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:11 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:13 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-1.scala
+2022.05.12 11:10:18 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:32 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:35 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:41 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:10:46 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:12:30 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:12:35 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:12:57 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:06 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:10 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:13 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:22 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:25 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:28 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:13:29 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:14 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:18 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:22 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:46 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:48 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:52 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:14:55 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:02 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:03 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:06 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:23 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:30 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:33 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:48 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:15:50 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:20 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:26 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:28 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:44 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:52 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:55 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:16:59 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:17:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:17:02 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:17:09 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:17:39 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:17:42 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:18:03 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:18:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:18:59 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:19:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:19:08 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:19:24 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:19:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:19:44 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-2.scala
+2022.05.12 11:20:05 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:20:26 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:20:38 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:20:52 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:20:54 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:20:57 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:01 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:05 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:08 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:09 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:12 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:17 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:20 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:24 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:30 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:32 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:39 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:44 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:47 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:50 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:52 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:53 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:56 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:21:58 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+2022.05.12 11:22:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\Main.scala
+5월 12, 2022 11:22:09 오전 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.05.12 13:40:11 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-3.scala
+2022.05.12 13:40:13 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\exercise2-3.scala
+2022.05.12 14:40:25 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:40:31 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+5월 12, 2022 2:40:32 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+2022.05.12 14:40:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:41:43 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:41:46 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:41:48 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:41:49 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:41:51 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:36 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:39 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:44 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:49 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:55 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:42:58 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:43:00 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:43:08 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:45:27 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:45:37 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:46:45 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:46:51 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:46:56 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:46:57 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:20 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:26 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:29 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:36 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:38 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:47:41 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:50:46 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:50:49 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:51:05 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:53:31 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:53:38 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:57:08 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:57:10 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:58:42 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:58:44 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:58:48 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:58:54 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:58:59 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:59:12 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+5월 12, 2022 2:59:13 오후 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 19 is not a valid line number, allowed [0..18]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1639)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1638)
+	... 15 more
+
+2022.05.12 14:59:23 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 14:59:26 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:00:28 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:00:31 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:00:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:00:39 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:00:43 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:01:06 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:01:08 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:01:55 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:02:02 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:02:06 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:02:10 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:02:13 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:10 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:13 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:19 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:21 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:27 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:42 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:45 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:04:53 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:05:34 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:05:37 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:05:38 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:05:54 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:05:58 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:02 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:04 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:09 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:10 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:14 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:19 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:21 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:24 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala
+2022.05.12 15:06:26 WARN  no build target for: E:\functional_programming\scala\hello-world\src\main\scala\3\Singly_Linked_List.scala

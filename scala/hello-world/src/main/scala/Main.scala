@@ -1,16 +1,21 @@
 import exercise2_1.fib
+import exercise2_2.isSorted
 import Array._
 object Hello {
     def main(args: Array[String]) = {
+        // var arr = range(0,10)
+        // arr = arr.map(value =>{
+        //   print(value)
+        //   fib(value)
+        // })
+        // println()
+        // for(x<-arr){
+        //   println(x)
+        // }
+
         var arr = range(0,10)
-        arr = arr.map(value =>{
-          print(value)
-          fib(value)
-        })
-        println()
-        for(x<-arr){
-          println(x)
-        }
+        println(isSorted(arr,(n1,n2) => n2>=n1))
+        println(isSorted(arr,(n1,n2) => n2<n1))
     }
 }
 // class Cafe {
